@@ -18,6 +18,9 @@ li {
     background: #f8f8ff;
 }
 
+ul {
+    padding: 2px;
+}
 
 a:hover {
     background: #f0f8ff;
